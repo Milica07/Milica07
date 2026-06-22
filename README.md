@@ -3,7 +3,7 @@
 -->
 <p align="center">
 
-![Retro Sparkles GIF Google Classroom Header](https://raw.githubusercontent.com/Milica07/Milica07/main/assets/header.gif)
+![Milica's banner](https://raw.githubusercontent.com/Milica07/Milica07/main/milica_banner_v2.svg)
 
 </p>
 
@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
 </p>
 
-### 📝 Latest Project
 
 ### 📝 Latest Project
 
