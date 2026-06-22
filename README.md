@@ -40,7 +40,10 @@
 
 ### 📝 Latest Project
 
-- [My portfolio](https://github.com/Milica07/My-Data-Analyst-Portfolio) (https://milica07.github.io/My-Data-Analyst-Portfolio/)
+### 📝 Latest Project
+
+**[My Portfolio](https://github.com/Milica07/My-Data-Analyst-Portfolio)** — A Data Analyst portfolio showcasing my projects and skills.  
+🔗 Live demo: [milica07.github.io/My-Data-Analyst-Portfolio](https://milica07.github.io/My-Data-Analyst-Portfolio/)
 - [Cyber incidents classification](https://github.com/Milica07/Klasifikacija_sajber_incidenata_R)
 
 ### 📈 GitHub Stats 
