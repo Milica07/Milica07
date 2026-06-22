@@ -48,7 +48,7 @@
 
 ### 📈 GitHub Stats 
 
-![Milica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milica07&show_icons=true&theme=radical)
+![Milica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milica07&show_icons=true&theme=radical&count_private=true)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Milica07&color=blue)
 
