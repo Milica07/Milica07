@@ -2,9 +2,7 @@
 **milica07/milica07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align="center">
-
-![Milica's banner](https://raw.githubusercontent.com/Milica07/Milica07/main/milica.png)
-
+  <img src="https://raw.githubusercontent.com/Milica07/Milica07/main/milica.png" alt="Milica Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Milica</h1>
