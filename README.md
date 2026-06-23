@@ -3,7 +3,7 @@
 -->
 <p align="center">
 
-![Milica's banner](https://raw.githubusercontent.com/Milica07/Milica07/main/milica_banner_v2.svg)
+![Milica's banner](https://raw.githubusercontent.com/Milica07/Milica07/main/milica_banner_animated-ezgif.com-gif-maker.gif)
 
 </p>
 
