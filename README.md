@@ -3,7 +3,7 @@
 -->
 <p align="center">
 
-![Milica's banner](https://raw.githubusercontent.com/Milica07/Milica07/main/milica_banner_animated.gif)
+![Milica's banner](https://raw.githubusercontent.com/Milica07/Milica07/main/milica.gif)
 
 </p>
 
